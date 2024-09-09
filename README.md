@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Zayn From PALESTINE
-- 🎓 Computer engineering student 4
-- 👀 I’m a fullstack web developer, currently learning C# And Asp.net core 6 web api.
-- ⭐ Besides all that I love reading books, Dabkah...
-- 💞️ Constantly learning.
-- 📫 How to reach me : zaynassaf2001@gmail.com, linkedin: https://www.linkedin.com/in/zayn-assaf%F0%9F%87%B5%F0%9F%87%B8-28410a1b9/
-
-
+#Hi, I'm Zayn Assaf 👋
+##About Me
+🌍 Location: Jenin, PALESTINE
+🎓 Education: Computer System Engineer
+👨‍💻 Profession: Web Developer, focusing on backend development using ASP.NET.
+⭐ Interests: I love reading books, and exploring new technologies.
+💡 Learning: Constantly learning and improving my skills.
+##Community Involvement
+💪 Active Member: Administration member in IEEE organization with various roles, including the last president of the Women in Engineering Society.
+🤝 Teamwork: Passionate about self-learning and collaborative team efforts.
+Reach Out
+📫 Email: zaynassaf2001@gmail.com
+🌐 LinkedIn: LinkedIn Profile
