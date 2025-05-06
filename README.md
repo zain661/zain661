@@ -1,7 +1,6 @@
 # Hi, I'm Zayn Assaf 👋
 
 ## About Me
-- 🌍 **Location**: Jenin, PALESTINE
 - 🎓 **Education**: Computer System Engineer
 - 👨‍💻 **Profession**: Web Developer, focusing on backend development using ASP.NET
 - ⭐ **Interests**: I love reading books and exploring new technologies
